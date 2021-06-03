@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and sure method proposed for the extirpation of popery in the space of a few years by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60049</idno><idno type="EEBO-CITATION">11077185</idno>
+  <idno type="VID">46284</idno>
+  <idno type="EEBO-PROQUEST">2248508537</idno>
+  
+            <idno type="STC">Wing S3553</idno>
+            <idno type="STC">ESTC R29358</idno>
+            <idno type="OCLC">11077185</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46284)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and sure method proposed for the extirpation of popery in the space of a few years by a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication and date suggested by Wing.</note>
+                  <note>Reproduction of original in the John Rylands University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History --  17th century.</term>
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46284:1"/>
+            <pb n="1" facs="tcp:46284:1"/>
+            <head>A Short and Sure METHOD Proposed for the EXTIRPATION OF POPERY, In the space of a few Years.</head>
+            <byline>By a Person of Quality.</byline>
+            <p>THE dreadful Revolutions, Plots and Conspiracies, which have been promoted by the <hi>Roman Catholicks</hi> in <hi>England</hi> since the <hi>Reformation,</hi> are of that nature; and have caused such fearful Convulsions in our Church and State, that it is a great Argument of the Goodness and Providence of of God, that we have been able to bear so many shocks, and to avoid so many deep designs as have now twice within the memory man brought us to the brinks of Ruine.</p>
+            <p>We must be very impious or very stupid if our last Deliverance has not been able to make us Adore the boundless Goodness of God towards us his
+<pb n="2" facs="tcp:46284:2"/> sinful and unthankful Servants; he, having defeated the Hopes, and totally overthrown the Contrivances of that restless, implacable, per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idious Faction, when they seem'd to be in such a Condition that they need fear nothing but the Almighty Power of God, miraculously exerting it self as in the case of <hi>Se<g ref="char:EOLhyphen"/>nachari<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which they neither feared <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or suspected.</p>
+            <p>The <hi>Non-resisting</hi> Doctrine had so ty'd the hands of the <hi>Church of England<g ref="char:EOLhyphen"/>men,</hi> that they thought they might safely insult over us and ridicule the Bond that bound us to our good behaviour. The <hi>Dissenters</hi> were as they thought so obliged by the <hi>Liberty of Conscience,</hi> and the fulsom Applications they had made to them in many ill writ Pieces, and by the favours bestowed on <hi>Pen</hi> and <hi>Lob,</hi> the two Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riarchs as they would have been thought, of that Party: That they not only suspected no opposition from them, but really conceived they would have been more than Scaffolds in the ruining Design they had then on foot. The Gentry were reduc'd to the utmost degree of Contempt, and the Nobility, who only were capable of putting a stop to such notorious and impolitick Encroachments on our Birthrights and Liberies, were not on<g ref="char:EOLhyphen"/>ly closeted, examin'd, re-examin'd, turn'd out of their Stations, brow-beaten, ridicul'd at Court, and in short, driven into the Country; but they were also by all the Arts that were possible rendred odious to the Crown, Con<g ref="char:EOLhyphen"/>temptible to one another, and of no Use to their Inferiors.</p>
+            <p>The Army, which was the next great Engine to bring about their Design, was managed with more Art than is commonly consider'd; for first there was a party of <hi>Roman Catholicks</hi> mix'd with the Common Souldiers, to be as it were Spies and Tempters, to creep into all the places of their resort to ob<g ref="char:EOLhyphen"/>serve their Words, Looks and Actions, and to take the opportunity of all their Needs, Crimes, Vices and Follies, to pervert them, and draw them over to the Church of <hi>Rome;</hi> and in the mean time to secure them from contriving any thing that might interrupt their Projects upon us. Secondly, They punish<g ref="char:EOLhyphen"/>ed all who desc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted the Service with the utmost Rigour and Severity to keep up their numbers; and Thirdly, They sent them to quarter in those places that had in any degree refused to comply with their Wills, and not only suf<g ref="char:EOLhyphen"/>fered, but encouraged them to Outrage, and sometimes to Murther their Hosts; but to be sure in all places they very much impoverish'd th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se that entertain'd them, and in the Interim, they kept all in aw and quiet, whilst these State-Mountebanks practised upon their Lives, Consciences, Liberties and Properties.</p>
+            <p>A People thus harrased and be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et, one would have thought had been con<g ref="char:EOLhyphen"/>signed to Ruine and Destruction; for where could our Deliverance begin? The <hi>Parliament,</hi> which is ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> last resort, was at the same time practised on with all the Art and Address that the Wit of Men or Devils could invent; and he must be of a deep Reach, or a Sanguine Complexion, who in the beginning of <hi>September</hi> last could hope to lee a free and a quiet <hi>Parliament</hi> meet and sit one Month, to represent with any degree of Liberty, our deplorable State and Condition, much less to redress any of our Grievances.</p>
+            <pb n="3" facs="tcp:46284:2"/>
+            <p>We had one Hope, which if they had left us still, we had certainly been as quiet and patient as <hi>Job</hi> himself, and that was, that the Princess <hi>Mary</hi> of <hi>Orange,</hi> would, when God thought sit, succeed His Majesty, and then we promis'd our selves a Day of Redemption from all our Calamities and Oppressi<g ref="char:EOLhyphen"/>ons; so that our Posterity would at worst see better days: To deprive us of this remote Comfort, that Scene was laid, and the Lady of <hi>Loretto</hi> sollicited to procure a <hi>Prince</hi> of <hi>Wales</hi> to reduce us to an utter De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peration of any Re<g ref="char:EOLhyphen"/>dress for ever. And now they thought they were so secure of the day, that they might attack the Heretical Bishops, and the whole body of our Clergy at once, and make them <hi>eat their own Dung</hi> in the Faces of their respective Congregations; if they had comply'd, the whole Nation would have abhor<g ref="char:EOLhyphen"/>red them, as a parcel of Cowards; if they did not, the Ecclesiastical Commis<g ref="char:EOLhyphen"/>sion was to have mowed them down by whole-sale, and when the People had been once deprived of their faithful and learned Shepherds, the Wolves in Sheeps clothing hoped to have had much better success than hitherto; but the Bishops interposing so, united the inferior Clergy, that this Design proved abortive, and the declaring the Bishops Petition a <hi>Seditions Libel, and so much the more dangerous because penn'd with great Modesty and Humility;</hi> so far open<g ref="char:EOLhyphen"/>ed the eyes of all Men, that the most Ignorant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw nothing less than the Extir<g ref="char:EOLhyphen"/>pation of the Protestant Religion was aim'd at.</p>
+            <p>The Army however, which was the great Wheel in this most dreadful <hi>Ma<g ref="char:EOLhyphen"/>chine,</hi> was for the most part Protestant, and had express'd so much Joy at the aquittal of the Bishops, in the Camp at <hi>Hounslow-Heath;</hi> that they clearly saw till it was new modell'd it could not be relied on; and therefore the <hi>French</hi> and <hi>Irish</hi> were to be invited over, and the Companies changed by de<g ref="char:EOLhyphen"/>grees: and when six of the Officers at <hi>Portsmouth,</hi> had with the greatest Hu<g ref="char:EOLhyphen"/>mility imaginable, only desired leave <hi>to fill up their Companies with such Men of this Nation as they judged most Serviceable to the King, or otherwise that they might be permitted with all imaginable Duty and Respect to lay down their Com<g ref="char:EOLhyphen"/>missions;</hi> for this Offence they were brought up Prisoners to <hi>London,</hi> and it was given out they should be hanged, as perhaps they had been, if <hi>Monsieur de Avaux</hi>'s Memorial given in at the <hi>Hague,</hi> had not come in that very Post to enlighten our little <hi>States-men,</hi> and shew them their approaching danger, and yet after all, the 10th of <hi>September</hi> last, they were cashier'd at <hi>Windsor.</hi>
+            </p>
+            <p>And when the Storm from <hi>Holland</hi> seem'd unavoidable. with what Inso<g ref="char:EOLhyphen"/>lence did they treat the Eleven Proposals made by the Bishops, and the Peti<g ref="char:EOLhyphen"/>tion presented the 17th of <hi>November</hi> last, by the Bishops and Peers about the Town? So that till the Army began to go over to the <hi>Prince of Orange,</hi> and the greatest part of the Nation had declar'd for him: No Parliament was to be thought of, and the <hi>Dispensing Power</hi> was the most Sacred of all the Pre<g ref="char:EOLhyphen"/>rogatives of the Crown.</p>
+            <p>That we may not imagine all this was undertaken, and entred upon with<g ref="char:EOLhyphen"/>out good Consideration of the Difficulties the <hi>Roman Catholicks</hi> were to meet with, I would desire my Reader to peruse a small piece by them publish'd in
+<pb n="4" facs="tcp:46284:3"/> the Year 1685, during the first Session of Parliament of <hi>James</hi> the Second, stil'd, <hi>Salus Britannica, or the Safety of the Protestant Religion, against all the present Appr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hensions of Popery,</hi> in <hi>Foli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+               <q>The Design of which, as the Author himself tells us, is to examine what National Operation or Influ<g ref="char:EOLhyphen"/>ence a Real Popish Crown'd Head can have over the Lives, Liberties, or Estates of <hi>English-men</hi> as now enjoy'd, and the Religion of the Kingdom, as at present Establish'd, and by confuting even the most substantial of their imagin'd Dangers, to dissipate those false Fears of Pope<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, <hi>&amp;c. pag.</hi> 1.</q> And in truth I believe no man can deny but he has very effectually proved, that it is utterly impossible for a Popish Prince, who has none but these Three Kingdoms, to set up Popery in this Nation, and that all he can gain by the Attempt will be the ruine of himself. And certainly they could not but ap<g ref="char:EOLhyphen"/>prehend this might possibly, if not probably, be the Event; yet after all, King and Kingdom was at last to be sacrificed to the Holy See of <hi>Rome;</hi> and on they went when they had proved it impossible to succeed.</p>
+            <p>I need be the less exact in setting down what they have done, it being within the space of four Years last past, that they have had the management of Affairs, and so all things are as fresh in all Mens Memories, as if they had been acted but yesterday: I think then, that I may from these Premises safe<g ref="char:EOLhyphen"/>ly conclude, that a more daring, restless and implacable Faction never appear<g ref="char:EOLhyphen"/>ed under the Sun than this is; And that it is the Interest of every true <hi>English</hi> Protestant, of what Perswasion soever he be, to do his utmost to free this mi<g ref="char:EOLhyphen"/>serable Nation from the Danger and Fear too, (if it be possible) of ever feeling again the dire Effects of Popish Zeal, or rather Fury.</p>
+            <p>Our Wise Ancestors, for above this three hundred Years, have been la<g ref="char:EOLhyphen"/>bouring to restrain this <hi>Demonaick,</hi> by <hi>Laws, Oaths</hi> and <hi>Tests;</hi> and when all the Methods of Severity fail'd, we have tried the Charms of Kindness, Trust, Friendship and Reliance: We set up a Prince of their Communion, and op<g ref="char:EOLhyphen"/>posed all those that would have <hi>Excluded</hi> him, with a Zeal, which made us look a little too much in love with one who seem'd design'd to be our Scourge by Heaven it self. When he had declar'd his Religion, and some of his Par<g ref="char:EOLhyphen"/>ty, amongst whom <hi>Nevel Paine</hi> was one, had given us clear Indications of their Rage against us; yet we in Parliament, not only attainted, and there<g ref="char:EOLhyphen"/>by ruin'd the late Duke of <hi>Monmouth</hi> and his Party; but when some Gentle<g ref="char:EOLhyphen"/>men propos'd to have the Security of the Protestant Religion taken into Consi<g ref="char:EOLhyphen"/>deration, the House declar'd they would <hi>intirely rely upon His Majesty's Pro<g ref="char:EOLhyphen"/>mise for the Security of their Religion, which they valued more than their Lives.</hi> And before this, when <hi>Charles</hi> the Second the 30th of <hi>April</hi> 1679, to avoid the Exclusion Bill, propos'd very advantageous Restrictions of the Authority of a <hi>Roman Catholick</hi> Prince: The <hi>Church</hi> of <hi>England-men</hi> rejected them, for fear they should too much weaken and expose the Regal Authority; not to mention the Favours shwen to all the whole <hi>Roman Catholick</hi> Party, during the fierce Prosecution of the Popish Plot in that Prince's Reign: Well, what could have been done more than was, to oblige Men or Christians to treat us
+<pb n="5" facs="tcp:46284:3"/> like Friends, when they had an opportunity to express their Gratitude▪ No, stay you there Gentlemen, we <hi>Roman Catholick</hi> have but one Friend in this World, and if you are not for him too▪ stand off; Expect nothing from us but Ruine and Desolation. will you <hi>Repeal the Pen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Laws and the Tests?</hi> Why? I cannot betray my Religion: Then make room for one that will, Turn out, <hi>Ite Procul Ite Profan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> And we all know what follow'd, and I suppose no body in this Generation will have so little wit as to pretend any more to oblige a <hi>Roman Catholick</hi> by any of these things.</p>
+            <p>Well, will <hi>Oaths</hi> bind them? No, They have a <hi>Pope,</hi> and a Maxim that will frustrate that Ligament, when ever it is for their Convenience to be free. And of this we have seen and felt too much already: Will Laws? If you catch and hang the Priest, the Traytor, the Cut-throat, he is made a <hi>Martyr,</hi> his Crime's deny'd, palliated, excus'd, or it may be justified and defended as occasion serves, and yet after all, they shall have the Satisfaction of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lamoring against you for a Pe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ecuting Church, and a Bloody Nation.</p>
+            <p>Well, what is to be done? Why, for my part, I can see but one possible Method to quiet the Nation, and that is once for all, to clear it of these Monsters, and force them to transplant themselves, not out of the <hi>English</hi> Do<g ref="char:EOLhyphen"/>minions, but out of this Island: As long as they continue amongst us, they neither can nor will be quiet; Priests they must and will have, and that Fer<g ref="char:EOLhyphen"/>ment will suffer nothing near it to be at rest. The remembrance o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what is past will irritate the Minds of Men, and make them jealous of future Evils, so that no care of the wisest and best Governors can long keep the Nation in Tranquillity and Peace, if these Men-catchers are suffered to nestle amongst us: But then I would have this extended only to <hi>England</hi> and <hi>Scotland,</hi> because <hi>Ireland</hi> would be laid desolate by such an Expedient, and if the <hi>English</hi> Na<g ref="char:EOLhyphen"/>tion, which has not above 40000 <hi>Roman Catholicks</hi> were once cleared, it would very easily Suppress and Revenge any Attempt could be made in that Kingdom.</p>
+            <p>Besides, this all Feme Coverts, all Persons above sixty or fifty years of age, all day Labourers and Handy-Crafts-men might be excepted; these can main<g ref="char:EOLhyphen"/>tain no Priests, nor much imbroil the Peace of the Nation, or at least for no long time, but then all the Nobility, Gentry, Merchants and Rich Trades<g ref="char:EOLhyphen"/>men of that Religion, I think ought to be sent packing, and for the future a Law be made to disfranchise them, and make them incapable of possessing, purchasing, inheriting or transmitting any Lands, Tenements or▪ Heredita<g ref="char:EOLhyphen"/>ments, to the value of forty Shillings <hi>per Annum,</hi> or upwards.</p>
+            <p>To make this the more easie, yet it were fitting that every individual Per<g ref="char:EOLhyphen"/>son should be asked whether he had rather leave his Country, or his Reli<g ref="char:EOLhyphen"/>gion? and all that would promise the latter upon Oath to be excused, but so as to forfeit their Estates if they relapsed after the Oath so taken, or brought up their Children in that Religion.</p>
+            <p>Secondly, To allow all that would Transplant themselves the full value of their Estates, both Real and Personal, their Debts being first paid and de<g ref="char:EOLhyphen"/>ducted.</p>
+            <pb n="6" facs="tcp:46284:4"/>
+            <p>This would enable them to live in as great or a greater Equipage and Grandeur in our Plantations, as they ever had here in <hi>England;</hi> and if they removed into <hi>Germany</hi> or <hi>France, Italy</hi> or <hi>Spain,</hi> their Estates would make their Lives easie, and their Banishment honorable. The World is wide, and if I were one of them I should never stay for an Act of <hi>Parliament,</hi> but would certainly fell what I had and be gone; that I might enjoy my Re<g ref="char:EOLhyphen"/>ligion and my Estate in a warmer Climate.</p>
+            <p>But, alas, they love their Country too dearly to leave it: what is it in <hi>England</hi> they love? The Civil Liberties they had brought to the utmost li<g ref="char:EOLhyphen"/>mits of Destruction. The Religion of <hi>England</hi> they ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e above all other, the Earth is not more Fruitful, and the Air is much Colder than that of other Countries, and I am confident the <hi>English</hi> Humour is so far exaspe<g ref="char:EOLhyphen"/>rated against Popery, that half a hundred years will no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> allay the Fever the last four years have raised in the <hi>English</hi> Blood against Popery; so that they have nothing to attach them to <hi>England,</hi> but the sullen hopes of being a Plague and a Terror to us.</p>
+            <p>But it will be said the transporting so much Wealth out of the Nation will too much impoverish us? This ought well to be considered, and a true Estimate made both of the Estates and Debts of the <hi>Roman Catholicks,</hi> and of the Methods of returning their Effects beyond the Seas, and then perhaps it would rather increase our Trade than abate our Wealth; and as for the weakning us by the taking off so many of our People, this I am sure is a meer <hi>Chimera,</hi> two or three thousand Persons would be the utmost that we should lose: And those who bought their Estates would be better Subjects and Neighbours than ever they will be as long as they continue <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks.</hi>
+            </p>
+            <p>It is not to be imagin'd, that all or any considerable part of this Wealth will be transported in <hi>English</hi> Money in Specie, but Merchandise, Bills of Exchange, <hi>&amp;c.</hi> So that I am confident we have more sent away to the <hi>Jesuits</hi> College beyond the Seas in seven years, than would be carried out in Specie on such an occasion; and hereby we should at once rid our selves of one of the greatest Plagues that any Nation ever struggled so long with.</p>
+            <p>Nor would it be only Profitable but <hi>Just.</hi> They have given us the great<g ref="char:EOLhyphen"/>est Provocation that ever was given by Men, to Men. Did ever 40000 Men in any other part of the World ever before endeavor to do what they themselves had proved to be impossible? did ever such an handful of Men before by Fraud and Violence design to enslave a Free, to impoverish a Rich, to subdue a Valiant and Generous a Nation? What could they mean by the <hi>force</hi> they in print and common discourse intima<g ref="char:EOLhyphen"/>ted, that was, to compel us to give up our Laws, if fair means would not do, but a <hi>Massacre,</hi> or a <hi>French</hi> Invasion? Let them consider how they have treated those of our Religion in <hi>France</hi> and <hi>Piedmont;</hi> and then tell me and all the world if we have treated them in the same manner when
+<pb n="7" facs="tcp:46284:4"/> we have sent them away with all they can justly call their own, only that we might not be forced to ruine them by a slower Prosecution.</p>
+            <p>The Facility is equal to the Justice of this Method; they are few in num<g ref="char:EOLhyphen"/>ber, hated by all the rest of the Nation; and besides all their former Mis<g ref="char:EOLhyphen"/>demeanors, have, by the late Attempts upon the Religion and Liberties of <hi>England,</hi> so far encreased the Aversion of all degrees of Men amongst us; that they will find very few to pity them, and not many to speak for them.</p>
+            <p>The only Objections I can foresee, are first; That it will impoverish <hi>England</hi> to suffer them to carry away their Estates, and look too like Po<g ref="char:EOLhyphen"/>pish Cruelty to turn them out despoiled of what they have, or of a great part of their Fortunes. Now this Objection must be consider'd in Parliament, because no one Man can make any thing near a true Estimate what the value will be, their Debts being deducted, till a true Account is given of their Estates and Debts, and then I verily believe it will be found much less than it seems at first.</p>
+            <p>The second Objection is, That it will weaken us and strengthen our Enemies, to lose so many of our People; to this, I say, it is apparently otherwise. For if those Estates were in the hands of Protestants they would much more contribute to the Union and Strength of <hi>England,</hi> than the persons of these <hi>Roman Catholicks</hi> can do, of whom we can make lit<g ref="char:EOLhyphen"/>tle or no use in Civil or Military Affairs, at home or abroad, in Peace or War. And if they were added to any other Country, the Peace and Union they would leave us in, would infinitely over-ballance the loss of their Persons, and as I believe of their Estates too.</p>
+            <p>But now on the contrary, if they be continued still amongst us, we must still struggle with all those Inconveniences, which have necessitated our Ancestors to make so many Laws against them, and the Seve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ities which must be used to keep them under, will, by degrees, when the memory of the late Transactions is worn off, beget Compassion, and that will grow greater as they grow fewer and less dangerous, and yet at last one single <hi>Jesu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> may destroy the best our of Princes, and two or three Gentlemen of Estate, may disquiet and enjealous a whole Country; and when all is done, no hopes is left that any lasting Peace can be made with them; so that as long as there is any of that Religion in <hi>England,</hi> there is a Ferment in the Veins of the Nation, which will cause dreadful Paroxisms.</p>
+            <p>Their Emisaries will also <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow Dissentions between us and the Dissenters, and exasperate the parties against each others; so that the good Correspon<g ref="char:EOLhyphen"/>dence which is now between us and them, will, in a short time, be turn'd into hatred on both sides, if all the Care imaginable be not taken on bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ sides of these Incendiaties, which will never be wanting whilst we have a Popish Nobility and Gentry, how small soever it is in number▪</p>
+            <pb n="8" facs="tcp:46284:5"/>
+            <p>The Seminaries at St. <hi>Ome<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way,</hi> &amp;c. are kept up by the Nobili<g ref="char:EOLhyphen"/>ty and Gentry of that Communion, and tend very much to the imbroil<g ref="char:EOLhyphen"/>ing and weakning <hi>England,</hi> and the advancing the Interest of <hi>France;</hi> but would soon dwindle away if they had no supplies from <hi>England,</hi> as they could have little if we had no Popish Nobility or Gentry, and the Lands of <hi>England</hi> were only in the hands of Protestants.</p>
+            <p>The retiring of His late Majesty into <hi>France,</hi> is another strong Induce<g ref="char:EOLhyphen"/>ment, as long as He or the <hi>Child</hi> is living, they will have a pretence to plot and cut Throats, and they will have some to pity, and others to applaud them; so that if there were no other reason, this alone were sufficient to deter<g ref="char:EOLhyphen"/>mine the question, unless we are resolved to shew our selves as careless of a Protestant Prince, as we have been over-fond of a <hi>Roman Catholick;</hi> which will be an ill Recompence for our Deliverance.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46284:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
